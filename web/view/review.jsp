@@ -149,13 +149,6 @@
                 ${review.getContent()}</div>
             <div class="system-rating" style="margin-top: 20px">
                 <div style="float: left; margin-right: 10px; font-size: 20px">Đánh giá bài viết: </div>
-                <!--<div style="float: left">
-                    <img src="../img/star3.png" width="30" height="30">
-                    <img src="../img/star3.png" width="30" height="30">
-                    <img src="../img/star3.png" width="30" height="30">
-                    <img src="../img/star3.png" width="30" height="30">
-                    <img src="../img/star3.png" width="30" height="30">
-                </div>-->
                 <form method="post" action="/rating?action=rate">
                     <table>
                         <tr>
