@@ -160,7 +160,7 @@
                     <p id="content1" class="text-justify">
                         ${getTop6.get(0).getTitle()}
                     </p>
-                    <%--<a id="link1" href="/review?id=${getTop6.get(0).getId_review()}">Xem thêm</a>--%>
+                    <a id="link1" href="/review?id=${getTop6.get(0).getId_review()}">Xem thêm</a>
                 </div>
             </div>
             <div class="col-md-12" style="background: white; height: 380px; margin-top: 40px">
@@ -179,7 +179,7 @@
                     <p id="content4" class="text-justify">
                         ${getTop6.get(3).getTitle()}
                     </p>
-                    <%--<a id="link4" href="/review?id=${getTop6.get(3).getId_review()}">Xem thêm</a>--%>
+                    <a id="link4" href="/review?id=${getTop6.get(3).getId_review()}">Xem thêm</a>
                 </div>
             </div>
         </div>
@@ -200,7 +200,7 @@
                     <p id="content2" class="text-justify">
                         ${getTop6.get(1).getTitle()}
                     </p>
-                    <%--                    <a id="link2" href="/review?id=${getTop6.get(1).getId_review()}">Xem thêm</a>--%>
+                                        <a id="link2" href="/review?id=${getTop6.get(1).getId_review()}">Xem thêm</a>
                 </div>
             </div>
             <div class="col-md-12" style="background: white; height: 380px; margin-top: 40px">
@@ -219,7 +219,7 @@
                     <p id="content5" class="text-justify" >
                         ${getTop6.get(4).getTitle()}
                     </p>
-                    <%--                    <a id="link5" href="/review?id=${getTop6.get(4).getId_review()}">Xem thêm</a>--%>
+                                        <a id="link5" href="/review?id=${getTop6.get(4).getId_review()}">Xem thêm</a>
                 </div>
             </div>
         </div>
@@ -240,7 +240,7 @@
                     <p id="content3" class="text-justify">
                         ${getTop6.get(2).getTitle()}
                     </p>
-                    <%--                    <a id="link3" href="/review?id=${getTop6.get(2).getId_review()}">Xem thêm</a>--%>
+                                        <a id="link3" href="/review?id=${getTop6.get(2).getId_review()}">Xem thêm</a>
                 </div>
             </div>
             <div class="col-md-12" style="background: white; height: 380px; margin-top: 40px">
@@ -259,7 +259,7 @@
                     <p id="content6" class="text-justify" style="margin: 0px 0px">
                         ${getTop6.get(5).getTitle()}
                     </p>
-                    <%--<a id="link6" href="/review?id=${getTop6.get(5).getId_review()}">...Xem thêm</a>--%>
+                    <a id="link6" href="/review?id=${getTop6.get(5).getId_review()}">...Xem thêm</a>
                 </div>
             </div>
         </div>

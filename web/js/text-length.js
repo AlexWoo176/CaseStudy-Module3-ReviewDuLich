@@ -1,5 +1,5 @@
 $(function () {
-    let limitW = 140;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content1').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -8,7 +8,7 @@ $(function () {
         $('#content1').html([
                 txtStart,
                 // $('#link1').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
@@ -19,7 +19,7 @@ $(function () {
 });
 
 $(function () {
-    let limitW = 150;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content2').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -28,7 +28,7 @@ $(function () {
         $('#content2').html([
                 txtStart,
                 // $('#link2').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
@@ -39,7 +39,7 @@ $(function () {
 });
 
 $(function () {
-    let limitW = 150;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content3').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -48,7 +48,7 @@ $(function () {
         $('#content3').html([
                 txtStart,
                 // $('#link3').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
@@ -59,7 +59,7 @@ $(function () {
 });
 
 $(function () {
-    let limitW = 150;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content4').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -68,7 +68,7 @@ $(function () {
         $('#content4').html([
                 txtStart,
                 // $('#link4').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
@@ -79,7 +79,7 @@ $(function () {
 });
 
 $(function () {
-    let limitW = 150;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content5').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -88,7 +88,7 @@ $(function () {
         $('#content5').html([
                 txtStart,
                 // $('#link5').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
@@ -99,7 +99,7 @@ $(function () {
 });
 
 $(function () {
-    let limitW = 150;
+    let limitW = 99;
     let char = 6;
     let txt = $('#content6').html();
     let txtStart = txt.slice(0, limitW).replace(/\w+$/, '');
@@ -108,7 +108,7 @@ $(function () {
         $('#content6').html([
                 txtStart,
                 // $('#link6').html(),
-                '<a href="#">...xem thêm</a>',
+                // '<a href="#">...xem thêm</a>',
                 '<span class="detail">',
                 txtEnd,
                 '</span>'
